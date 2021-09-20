@@ -1,0 +1,15 @@
+div{
+	text-align: center;
+	margin-top: 12%;
+}
+
+form{
+	color: white;
+	border-bottom: solid 1px;
+    border-top: solid 1px;
+    padding-top: 2%;
+}
+
+body{
+	background-color: #003c52;
+}
